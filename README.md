@@ -1,3 +1,9 @@
+<img width="1185" height="753" alt="Screenshot 2026-10-06 at 1 26 07 PM" src="https://github.com/user-attachments/assets/0cff85b5-6ec6-4f37-ae11-30f2f62f85fe" />
+<img width="1183" height="764" alt="Screenshot 2026-10-06 at 1 26 14 PM" src="https://github.com/user-attachments/assets/ad13a16c-28d3-4d32-9330-352a450bac40" />
+<img width="1180" height="754" alt="Screenshot 2026-10-06 at 1 26 20 PM" src="https://github.com/user-attachments/assets/8e9fc694-4a00-4acb-ac30-73b13631d985" />
+<img width="1183" height="763" alt="Screenshot 2026-10-06 at 1 26 29 PM" src="https://github.com/user-attachments/assets/5ec4cac8-4163-4ef6-ac1f-840ce495b3ba" />
+<img width="1189" height="762" alt="Screenshot 2026-10-06 at 1 26 41 PM" src="https://github.com/user-attachments/assets/1813ec21-57ae-4580-8dc2-574fdad06c9d" />
+<img width="1197" height="759" alt="Screenshot 2026-10-06 at 1 26 49 PM" src="https://github.com/user-attachments/assets/fca48d91-32e2-490b-a96d-e2cd2dc89daa" />
 # CivicDesk Case Study Presentation
 
 This repository contains a professional presentation website for **Case Study 16: CivicDesk - Municipal Grievance Redressal for a City of 4 Million**.
