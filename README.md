@@ -38,12 +38,6 @@ python3 -m http.server 8000
 
 Then, open your web browser and navigate to: [http://localhost:8000](http://localhost:8000)
 
-## Figma Prototype & Screenshots
-
-*(You can add your Figma screenshots or embed links here to showcase your design mockups for CivicDesk.)*
-- [Figma Prototype Link](#)
-- ![Screenshot 1](path/to/screenshot1.png)
-
 ## Author
 Prepared by **Vrish Thadani**
 Course: B.Tech CSE 2025-29 • Software Engineering & Project Management
