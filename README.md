@@ -30,8 +30,10 @@ Then, open your web browser and navigate to: [http://localhost:8000](http://loca
 ## Author
 Prepared by **Vrish Thadani**
 Course: B.Tech CSE 2024-28 • Software Engineering & Project Management
-<img width="456" height="606" alt="Screenshot 2026-10-06 at 1 21 33 PM" src="https://github.com/user-attachments/assets/354ebe24-ca3f-4ec0-b29c-579e3e08fa67" />
-<img width="444" height="606" alt="Screenshot 2026-10-06 at 1 21 41 PM" src="https://github.com/user-attachments/assets/91f60126-3a58-4d05-85ba-065e7ec76421" />
-<img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/335d6baf-8cdd-479c-95c6-286a78fde200" />
-<img width="458" height="618" alt="Screenshot 2026-10-06 at 1 21 19 PM" src="https://github.com/user-attachments/assets/79b50dee-d515-4db4-9f84-4a03b540e11d" />
+<img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/62b6f6b7-b112-4d69-ba1f-2f0285c33fed" />
+<img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/4c88a696-f07c-4181-8f47-322fc5142a95" />
+<img width="444" height="606" alt="Screenshot 2026-10-06 at 1 21 41 PM" src="https://github.com/user-attachments/assets/2698b760-952c-449a-bafe-0a80813c40f0" />
+<img width="456" height="606" alt="Screenshot 2026-10-06 at 1 21 33 PM" src="https://github.com/user-attachments/assets/1cc611f6-6ff4-465e-8dde-31e64c2fa477" />
+
+
 
