@@ -125,9 +125,10 @@ To view it locally, open a terminal in the project directory and run:
 python3 -m http.server 8000
 ```
 Then navigate to: [http://localhost:8000](http://localhost:8000)
+Figma Ui- 
 
 
-Figma ui-
+
 <img width="458" height="618" alt="Screenshot 2026-10-06 at 1 21 19 PM" src="https://github.com/user-attachments/assets/67670e5b-e79d-4380-bc9c-95cccef8269e" />
 <img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/35900566-8285-4d66-936f-e77c877db2b9" />
 <img width="444" height="606" alt="Screenshot 2026-10-06 at 1 21 41 PM" src="https://github.com/user-attachments/assets/93c44649-b9a9-45f5-a298-902377b26bec" />
