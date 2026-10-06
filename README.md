@@ -30,6 +30,7 @@ Then, open your web browser and navigate to: [http://localhost:8000](http://loca
 ## Author
 Prepared by **Vrish Thadani**
 Course: B.Tech CSE 2024-28 • Software Engineering & Project Management
+
 <img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/62b6f6b7-b112-4d69-ba1f-2f0285c33fed" />
 <img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/4c88a696-f07c-4181-8f47-322fc5142a95" />
 <img width="444" height="606" alt="Screenshot 2026-10-06 at 1 21 41 PM" src="https://github.com/user-attachments/assets/2698b760-952c-449a-bafe-0a80813c40f0" />
