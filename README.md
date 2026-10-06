@@ -29,4 +29,9 @@ Then, open your web browser and navigate to: [http://localhost:8000](http://loca
 
 ## Author
 Prepared by **Vrish Thadani**
-Course: B.Tech CSE 2025-29 • Software Engineering & Project Management
+Course: B.Tech CSE 2024-28 • Software Engineering & Project Management
+<img width="456" height="606" alt="Screenshot 2026-10-06 at 1 21 33 PM" src="https://github.com/user-attachments/assets/354ebe24-ca3f-4ec0-b29c-579e3e08fa67" />
+<img width="444" height="606" alt="Screenshot 2026-10-06 at 1 21 41 PM" src="https://github.com/user-attachments/assets/91f60126-3a58-4d05-85ba-065e7ec76421" />
+<img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/335d6baf-8cdd-479c-95c6-286a78fde200" />
+<img width="458" height="618" alt="Screenshot 2026-10-06 at 1 21 19 PM" src="https://github.com/user-attachments/assets/79b50dee-d515-4db4-9f84-4a03b540e11d" />
+
