@@ -1,3 +1,10 @@
+<img width="1185" height="753" alt="Screenshot 2026-10-06 at 1 26 07 PM" src="https://github.com/user-attachments/assets/71d9303f-1b9b-4c4b-812e-30b2b37b7ac2" />
+<img width="1183" height="764" alt="Screenshot 2026-10-06 at 1 26 14 PM" src="https://github.com/user-attachments/assets/bc690149-917c-4240-b5da-2978595ebe1b" />
+<img width="1180" height="754" alt="Screenshot 2026-10-06 at 1 26 20 PM" src="https://github.com/user-attachments/assets/de6b8ee6-ca48-4ef5-a7d2-a130e52f61d7" />
+<img width="1183" height="763" alt="Screenshot 2026-10-06 at 1 26 29 PM" src="https://github.com/user-attachments/assets/857dbca8-dc1a-4c6a-815b-beffa972c9ac" />
+<img width="1189" height="762" alt="Screenshot 2026-10-06 at 1 26 41 PM" src="https://github.com/user-attachments/assets/dc55dd32-f40b-4777-9bdf-608817cf1c87" />
+<img width="1197" height="759" alt="Screenshot 2026-10-06 at 1 26 49 PM" src="https://github.com/user-attachments/assets/98849d9f-fd94-44a2-b0b3-7a1770a0cafe" />
+
 # CivicDesk – Municipal Grievance Redressal for a City of 4 Million
 
 **Case Study 16**  
@@ -118,6 +125,8 @@ To view it locally, open a terminal in the project directory and run:
 python3 -m http.server 8000
 ```
 Then navigate to: [http://localhost:8000](http://localhost:8000)
+
+
 Figma ui-
 <img width="458" height="618" alt="Screenshot 2026-10-06 at 1 21 19 PM" src="https://github.com/user-attachments/assets/67670e5b-e79d-4380-bc9c-95cccef8269e" />
 <img width="460" height="610" alt="Screenshot 2026-10-06 at 1 21 26 PM" src="https://github.com/user-attachments/assets/35900566-8285-4d66-936f-e77c877db2b9" />
